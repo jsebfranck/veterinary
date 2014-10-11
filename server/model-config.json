@@ -25,11 +25,11 @@
     "public": false
   },
   "Customer": {
-    "dataSource": "db",
+    "dataSource": "VeterinaryDB",
     "public": true
   },
   "Pet": {
-    "dataSource": "db",
+    "dataSource": "VeterinaryDB",
     "public": true
   }
 }
